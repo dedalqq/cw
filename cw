@@ -30,4 +30,4 @@ ln -s ../sites-available/$dir_name.conf $dir_name.conf
 
 service apache2 restart
 
-# apache php php-mongo php-curl mongodb rewrite-enable
+# apache php php-mongo php-curl mongodb rewrite-enable php5-mongo 
